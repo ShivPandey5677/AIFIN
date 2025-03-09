@@ -1,0 +1,132 @@
+Company Name,Date,Title,Description,Sentiment Score,Sentiment,URL
+SBIN,2025-03-04T12:58:46Z,"Top gainers & losers today, 4 March: SBIN, Zomato, TCS rise; Bajaj Finserv, HCL Tech decline",Equity benchmarks close lower for tenth consecutive session due to global trade tensions and foreign selling.,-0.9186,Negative,https://www.thehindubusinessline.com/markets/stock-markets/nse-bse-stock-market-top-gainers-top-losers-today-sbin-zomato-tcs-4-mar-2025/article69289877.ece
+SBIN,2025-03-02T20:53:16Z,Changing fan speed in Ubuntu 22.04,"I am used to change the fan speed by running the following command:
+sudo pwmconfig 
+Unfortunately, i get the following output:
+# pwmconfig version 3.6.0
+This program will search your sensors for pulse width modulation (pwm)
+controls, and test each one to see …",0.2732,Positive,https://askubuntu.com/questions/1542748/changing-fan-speed-in-ubuntu-22-04
+SBIN,2025-02-28T13:53:55Z,Network connectivity issue with new router,"I've been using Ubuntu 24.04.2 LTS, I have been using one router previously which I had to change, but when I installed the new router, I cannot use internet properly. I am able to use the internet on my phone and other devices through that new router, even w…",0.7695,Positive,https://askubuntu.com/questions/1542602/network-connectivity-issue-with-new-router
+SBIN,2025-02-28T08:59:47Z,"How can gparted bootmake system sbin wiped from system, no actions to disks was performed","I'm just launch Gparted to free disk space on ssd nvme, Gparted show tome strange dialog that i do not even read, tap ok, then my shell entirely crash, grub can't find sbin and nvme01p4 not present in /dev with grub rescue.
+Without divin into logs etc anyone …",0.5445,Positive,https://askubuntu.com/questions/1542574/how-can-gparted-bootmake-system-sbin-wiped-from-system-no-actions-to-disks-was
+SBIN,2025-02-27T13:56:02Z,Re: MitM attack against OpenSSH's VerifyHostKeyDNS-enabled client,"Posted by Jordy Zomer on Feb 27Hey all,
+
+First of all, cool findings! I've been working on the CodeQL query and have a revised version that I think improves 
+accuracy and might offer some performance gains (though I haven't done rigorous benchmarking). The ke…",0.7963,Positive,https://seclists.org/fulldisclosure/2025/Feb/18
+SBIN,2025-02-24T01:14:02Z,"Share Market Highlights 24 February 2025: Markets bleed: Sensex tanks 856 points, Nifty below 22,600 on US tariff woes","Sensex, Nifty updates on 24 February 2025: Equity benchmark indices Sensex and Nifty closed in deep red on Monday, tracking extremely weak US market trends, incessant foreign fund outflows and concerns over US tariffs. The 30-share BSE benchmark Sensex tanked…",0.4951,Positive,https://www.thehindubusinessline.com/markets/stock-market-highlights-24th-february-2025/article69254304.ece
+SBIN,2025-02-22T17:06:38Z,Без проводная точка доступа,"Пытаюсь настроить точку доступа для usb Wi-Fi из под Slackware 15.0
+Моё устройство:
+Bus 001 Device 003: ID 0bda:8172 Realtek Semiconductor Corp. RTL8191SU 802.11n WLAN Adapter
+
+
+
+Узнать драйвер пришлось через dmesg:
+[ 9.555844] usb 1-11: r8712u: Loading firm…",-0.3089,Negative,https://www.linux.org.ru/forum/admin/17893062
+SBIN,2025-02-21T17:21:04Z,isc-dhcp-server игнорирует сетевую карту в разъёме PCI-E,"OC Debian 12, материнская плата Asus M2NE. DHCP сервер работает и выдаёт ip-адреса на всех сетевых картах от встроенной до PCI и PCI-e, в т.ч. vlan (разъёмов PCI-e на этой плате два PCIEX1_1 и PCIEX1_2).
+Сетевые карты определяются в PCIEX1_2, переименовываютс…",0.0,Neutral,https://www.linux.org.ru/forum/admin/17892158
+SBIN,2025-02-21T04:27:53Z,MitM attack against OpenSSH's VerifyHostKeyDNS-enabled client,"Posted by Qualys Security Advisory via Fulldisclosure on Feb 20Qualys Security Advisory
+
+CVE-2025-26465: MitM attack against OpenSSH's VerifyHostKeyDNS-enabled
+client
+
+CVE-2025-26466: DoS attack against OpenSSH's client and server
+
+===========================…",-0.5859,Negative,https://seclists.org/fulldisclosure/2025/Feb/17
+SBIN,2025-02-20T21:12:08Z,Grub won't show up and detect kernels,"I have cloned the kernel and switched to version v6.11 (mine is 6.11.0-14) which I have builded and run the /sbin/installkernel script (which ubuntu provides) and everything was fine but the when I restarted the computer It won't enter in grub and shows this
+…",0.3818,Positive,https://askubuntu.com/questions/1541939/grub-wont-show-up-and-detect-kernels
+SBIN,2025-02-20T18:22:27Z,Missing WiFi control from thesystem tray and the Settings app,"I have updated the 20.04.2 LTS server version to include the desktop (sudo apt install -y unbuntu-desktop)
+After a reboot, the desktop was present and working. However, the system tray applications and settings
+application were missing. The wifi network conne…",0.505,Positive,https://askubuntu.com/questions/1541922/missing-wifi-control-from-thesystem-tray-and-the-settings-app
+SBIN,2025-02-20T17:00:29Z,"Failed to start sssd.service - System Security Service - (code=exited, status=1/FAILURE)","I am facing an issue with Ubuntu Server 24.04 version adding Active Directory, but the SSSD service is not starting, and I'm getting the below error message.
+ krb5_kt_start_seq_get failed: Key table file '/
+ 23434 ExecStart=/usr/sbin/sssd -i ${DEBUG_LOGGER} (…",-0.0543,Negative,https://askubuntu.com/questions/1541907/failed-to-start-sssd-service-system-security-service-code-exited-status-1
+SBIN,2025-02-20T14:35:29Z,Using systemd to switch nginx configurations based on number of CPUs,"I set up a BigBlueButton web conferencing server
+so that people can use it for Emacs meetups. To
+keep costs down, I want to resize it to 1 GB RAM 1
+vCPU most of the time, and then resize it to 8 GB
+RAM 4 vCPU when there's a meetup. When it's at a
+proper size …",0.2263,Positive,https://sachachua.com/blog/2025/02/using-systemd-to-switch-nginx-configurations-based-on-number-of-cpus/
+SBIN,2025-02-20T11:38:57Z,Grml developers: Evgeni Golov: Unauthenticated RCE in Grandstream HT802V2 and probably others using gs_test_server DHCP vendor option,"The Grandstream HT802V2 uses busybox' udhcpc for DHCP.
+When a DHCP event occurs, udhcpc calls a script (/usr/share/udhcpc/default.script by default) to further process the received data.
+On the HT802V2 this is used to (among others) parse the data in DHCP opt…",0.0,Neutral,https://www.die-welt.net/2025/02/unauthenticated-rce-in-grandstream-ht802v2-and-probably-others-using-gs_test_server-dhcp-vendor-option/
+SBIN,2025-02-20T11:25:17Z,Debian Policy Updated With New Packaging Guidance & Updated Chinese Translations,"The Debian Policy 4.7.1.0 is now available as the updated manual around policy requirements for the Debian distribution for packaging mandates, design issues, and other details to abide by for Debian developers...",0.0,Neutral,https://www.phoronix.com/news/Debian-Policy-New-Guidance
+SBIN,2025-02-19T05:47:01Z,Reviving an Old Kindle Paperwhite 7th Gen | TerminalBytes.com,"Transforming my old Kindle Paperwhite 7th Gen into a minimalist e-ink dashboard. Learn how to repurpose outdated e-readers into energy-efficient displays through jailbreaking, custom software, and clever power management.",-0.4005,Negative,https://terminalbytes.com/reviving-kindle-paperwhite-7th-gen/
+SBIN,2025-02-18T09:36:36Z,Ubuntu Server smbd.service error,"https://github.com/7ROBE/Ubuntu-Server-Guide
+I am following this guide, trying to install samba onto my ubuntu server. I am currently at step 5 part 6. I get an error when I type in this code:
+sudo systemctl restart smbd. I get error Job for smbd.service fail…",-0.8689,Negative,https://askubuntu.com/questions/1541680/ubuntu-server-smbd-service-error
+SBIN,2025-02-18T09:20:45Z,MitM attack against OpenSSH's VerifyHostKeyDNS-enabled client,"Posted by Qualys Security Advisory on Feb 18Qualys Security Advisory
+
+CVE-2025-26465: MitM attack against OpenSSH's VerifyHostKeyDNS-enabled
+client
+
+CVE-2025-26466: DoS attack against OpenSSH's client and server
+
+==============================================…",-0.5859,Negative,https://seclists.org/oss-sec/2025/q1/144
+SBIN,2025-02-16T00:00:00Z,Viewing Xorg logs with journalctl in Fedora,"I love being an early adopter and trudging off into the unknown.
+After all, that’s one of the best ways to learn new things and you end up improving the experience for everyone who comes behind you.
+However, things can get a little frustrating from time to ti…",0.9674,Positive,https://major.io/p/xorg-logs-fedora-journalctl/
+SBIN,2025-02-15T13:28:23Z,"virsh failure: ""Failed to start network default; socket 192.168.122.1 address already in use""","I haven't run any VMs for a while (~8 weeks), but I tried to create a new VM today (22.04 and 24.04, on Cockpit) and got this error message:
+ERROR Requested operation is not valid: network 'default' is not active 
+Domain installation does not appear to have b…",-0.9664,Negative,https://askubuntu.com/questions/1541504/virsh-failure-failed-to-start-network-default-socket-192-168-122-1-address-al
+SBIN,2025-02-13T12:27:56Z,How to add a directory to your PATH,How to add a directory to your PATH,0.2732,Positive,https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/
+SBIN,2025-02-12T21:23:52Z,"Nvidia failure on update to Ubuntu 24.04 and 24.10 after update can only launch using ""recovery mode"". NVIDIA-Linux-x86_64-340.108.run fails","$ gcc --version
+gcc (Ubuntu 14.2.0-4ubuntu2) 14.2.0
+Directory screen shot
+The CC version check failed:
+The string ""(gcc"" was not found in the /proc/version string: ""Linux version
+6.11.0-14-generic (buildd@lcy02-amd64-032) (x86_64-linux-gnu-gcc-14 (Ubuntu
+14.2…",-0.9136,Negative,https://askubuntu.com/questions/1541295/nvidia-failure-on-update-to-ubuntu-24-04-and-24-10-after-update-can-only-launch
+SBIN,2025-02-12T18:02:40Z,Debian 12 & nftables на неспешном устройстве. Можно ли замедлить процессы?,"Здравствуйте.
+Имеется:
+<ol>
+<li>Raspberry Pi B+ 1.2</li>
+</ol>
+Linux rpi 6.6.51+rpt-rpi-v6 #1 Raspbian 1:6.6.51-1+rpt3 (2024-10-08) armv6l GNU/Linux
+
+
+
+<ol>
+<li>USB-WiFi</li>
+</ol>
+Bus 001 Device 004: ID 148f:761a Ralink Technology, Corp. MT7610U (""Archer T2…",0.0,Neutral,https://www.linux.org.ru/forum/desktop/17881892
+SBIN,2025-02-12T03:30:00Z,LINUX手动安装万里开源单实例 - 深夜暗月,下载安装包 https://gitee.com/GreatSQL/GreatSQL/releases/ 关闭 selinux 和防火墙 #关闭selinux $ setenforce=0 $ sed -i '/^SELINUX=/c'SELINUX=disabled /etc/selinux/con,-0.296,Negative,https://www.cnblogs.com/shenyeanyue-study/p/18711232
+SBIN,2025-02-10T14:37:20Z,Ubuntu 24.04 system boots successfully in recovery mode only,"I have a problem with an HP-notebook that comes with AMD graphics. It boots properly only when I choose recovery mode in grub and then resume this mode immediately. On normal boot it hangs with these messages:
+
+Having a look into lightdm-logs does not really …",-0.296,Negative,https://askubuntu.com/questions/1541074/ubuntu-24-04-system-boots-successfully-in-recovery-mode-only
+SBIN,2025-02-10T11:05:46Z,Grub / boot crash,"First of all I am not to experienced here :)
+Got a problem, that my Ubuntu ""disk"" (as I am manually switching between 2 disks) crashed and I am trying to fix it - but for now no success. I believe my boot partition is broken, as after auto disk fix (on the st…",0.2732,Positive,https://askubuntu.com/questions/1541052/grub-boot-crash
+SBIN,2025-02-10T05:53:29Z,Jooki – Taking Control of a Forgotten Device,"Jooki was a dream come true for parents—an intuitive, screen-free audio player that let kids enjoy music and stories with the tap of a token. But that dream turned into frustration when the company behind Jooki went bankrupt, leaving countless devices bricked…",0.5187,Positive,https://nv1t.github.io/blog/reviving-jooki/
+SBIN,2025-02-09T16:23:22Z,Как вывести приглашение о входе в систему в консоль,"Здравствуйте, может быть кто сможет подсказать, что я делаю не так? Есть плата на ARM64, к ней я подключён через последовательный порт uart(у меня на компе он отображается как ttyUSB0, т.к. это usb конвертер) и я собрал для него ядро 5.10.110, выставил параме…",0.0,Neutral,https://www.linux.org.ru/forum/linux-hardware/17878444
+SBIN,2025-02-08T21:05:44Z,"Proper way to fix ""Some of Firefox's security features may offer less protection on your current operating system"" warning in Firefox using AppArmor?","After a fresh Kubuntu 24.04.1 installation I replaced Firefox with the deb package version. Firefox greeted me with a warning:
+
+Some of Firefox's security features may offer less protection on your current operating system. How to fix this issue
+
+
+I tried to…",0.7783,Positive,https://askubuntu.com/questions/1540917/proper-way-to-fix-some-of-firefoxs-security-features-may-offer-less-protection
+SBIN,2025-02-08T20:27:15Z,Issue with cron django,"I am trying implementing django crontab into my django project. Everything works fine except logging, in the docker container folder with logging does not exist.
+My settings
+
+INSTALLED_APPS = [
+ 'django.contrib.admin',
+ 'django.contrib.auth',
+ 'django.contrib…",0.3818,Positive,https://stackoverflow.com/questions/79423864/issue-with-cron-django
+SBIN,2025-02-08T17:52:12Z,Ubuntu 24.10 not recognizing RTX 4060 even tho drivers are installed,"I am having issues getting nvidia rtx 4060 to be seen by ubuntu 24.10
+The laptop spec:
+OS: Xubuntu 24.10 x86_64 
+Host: 82Y4 Legion Slim 7 16APH8 
+Kernel: 6.11.0-14-generic 
+Uptime: 4 mins 
+Packages: 3906 (dpkg), 22 (flatpak), 18 (snap) 
+Shell: zsh 5.9 
+Resolu…",0.0,Neutral,https://askubuntu.com/questions/1540905/ubuntu-24-10-not-recognizing-rtx-4060-even-tho-drivers-are-installed
+SBIN,2025-02-06T18:23:13Z,Show HN: New approach for CI/CD/compute system,I've been tired with the current options on the market for awhile and decided to do something about it after the running into the disaster that is MLOps at my last two startups and having to manage a multiple operation platforms both for my fellow ML engineer…,-0.7339,Negative,https://www.egdaemon.com/posts/2025.01.30.introducing.egd/index.html
+SBIN,2025-02-06T14:00:00Z,I built a maxed-out Raspberry 5 mini PC with an SSD for under $200. You can too,"The Raspberry Pi 5 is several times faster than previous models of the compact and cheap computer. For less than a couple hundred bucks, you can have a computer that can do many tasks that previously required a regular PC, that consumes very little power, and…",0.0,Neutral,https://www.pcworld.com/article/2583964/i-built-a-maxed-out-raspberry-5-mini-pc-with-a-ssd-for-under-200-you-can-too.html
+SBIN,2025-02-06T02:26:13Z,Jens Georg: Remote deploy to server using SSH and Gitlab,"These are my notes for setting up a “deploy-to-remote-webserver” workflow with ssh and an
+sftp-only chroot, in case someone might find it useful.
+Compiled from various bits and pieces around the internet.
+Setting up SSH
+<ul>
+<li>Add a group: groupadd -r remot…",0.7003,Positive,https://jensge.org/2025/02/06/remote-deploy-to-server-using-ssh-and-gitlab/
+SBIN,2025-02-06T01:07:08Z,"Share Market Highlights 6 February 2025: Markets extend losses ahead of RBI rate decision; Sensex falls 213 pts to close at 78,058, Nifty ends at 23,603","Sensex, Nifty updates on 6 February 2025: Benchmark indices Sensex and Nifty slid for the second consecutive day on Thursday amid caution ahead of the RBI’s monetary policy decision and fresh foreign fund outflows. The 30-share BSE Sensex dropped 213.12 point…",0.8625,Positive,https://www.thehindubusinessline.com/markets/stock-market-highlights-6-february-2025/article69185193.ece
+SBIN,2025-02-05T21:47:21Z,Dynamic NickelMenu labels,"I've created a NickelMenu config that has a dynamic label for starting/stopping the FTP or Telnet server, and for turning the backlight off and on. It shows ""FTP Start"" when clicking it will start the FTP server, and ""FTP Stop"" when clicking it will stop the …",0.7506,Positive,https://www.mobileread.com/forums/showthread.php?s=8cea59591dd113247a868293a1051b3d&p=4486958#post4486958
+SBIN,2025-02-05T06:55:04Z,NsJail: A light-weight process isolation tool for Linux,"A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)",-0.6597,Negative,https://nsjail.dev/

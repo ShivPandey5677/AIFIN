@@ -1,0 +1,1 @@
+Error fetching 1m data for ADANIENT: [Errno 13] Permission denied: 'nifty50_intraday_data/ADANIENT_1m.csv'
