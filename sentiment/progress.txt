@@ -35,3 +35,43 @@ C.E. Info Systems Ltd.
 Coforge Ltd.
 Cyient Ltd.
 HCL Technologies Ltd.
+Happiest Minds Technologies Ltd.
+Infosys Ltd.
+Intellect Design Arena Ltd.
+KPIT Technologies Ltd.
+L&T Technology Services Ltd.
+LTIMindtree Ltd.
+Latent View Analytics Ltd.
+Mastek Ltd.
+MphasiS Ltd.
+Netweb Technologies India Ltd.
+Newgen Software Technologies Ltd.
+Oracle Financial Services Software Ltd.
+Persistent Systems Ltd.
+Sonata Software Ltd.
+Tanla Platforms Ltd.
+Tata Consultancy Services Ltd.
+Tata Elxsi Ltd.
+Tata Technologies Ltd.
+Tech Mahindra Ltd.
+Abbott India Ltd.
+Ajanta Pharmaceuticals Ltd.
+Akums Drugs and Pharmaceuticals Ltd.
+Alembic Pharmaceuticals Ltd.
+Alkem Laboratories Ltd.
+Apollo Hospitals Enterprise Ltd.
+Aster DM Healthcare Ltd.
+AstraZenca Pharma India Ltd.
+Aurobindo Pharma Ltd.
+Biocon Ltd.
+Caplin Point Laboratories Ltd.
+Cipla Ltd.
+Concord Biotech Ltd.
+Divi's Laboratories Ltd.
+Dr. Lal Path Labs Ltd.
+Dr. Reddy's Laboratories Ltd.
+Emcure Pharmaceuticals Ltd.
+Eris Lifesciences Ltd.
+Fortis Healthcare Ltd.
+Gland Pharma Ltd.
+Glaxosmithkline Pharmaceuticals Ltd.

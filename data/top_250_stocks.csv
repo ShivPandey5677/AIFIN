@@ -8,11 +8,13 @@ Aditya Birla Sun Life AMC Ltd.,Financial Services,ABSLAMC,EQ,INE404A01024
 Anand Rathi Wealth Ltd.,Financial Services,ANANDRATHI,EQ,INE463V01026
 Angel One Ltd.,Financial Services,ANGELONE,EQ,INE732I01013
 Aptus Value Housing Finance India Ltd.,Financial Services,APTUS,EQ,INE852O01025
+Authum Investment & Infrastructure Ltd.,Financial Services,AIIL,EQ,INE206F01022
 Axis Bank Ltd.,Financial Services,AXISBANK,EQ,INE238A01034
 BSE Ltd.,Financial Services,BSE,EQ,INE118H01025
 Bajaj Finance Ltd.,Financial Services,BAJFINANCE,EQ,INE296A01024
 Bajaj Finserv Ltd.,Financial Services,BAJAJFINSV,EQ,INE918I01026
 Bajaj Holdings & Investment Ltd.,Financial Services,BAJAJHLDNG,EQ,INE118A01012
+Bajaj Housing Finance Ltd.,Financial Services,BAJAJHFL,EQ,INE377Y01014
 Bandhan Bank Ltd.,Financial Services,BANDHANBNK,EQ,INE545U01014
 Bank of Baroda,Financial Services,BANKBARODA,EQ,INE028A01039
 Bank of India,Financial Services,BANKINDIA,EQ,INE084A01016
@@ -27,8 +29,6 @@ Cholamandalam Financial Holdings Ltd.,Financial Services,CHOLAHLDNG,EQ,INE149A01
 Cholamandalam Investment and Finance Company Ltd.,Financial Services,CHOLAFIN,EQ,INE121A01024
 City Union Bank Ltd.,Financial Services,CUB,EQ,INE491A01021
 Computer Age Management Services Ltd.,Financial Services,CAMS,EQ,INE596I01012
-CreditAccess Grameen Ltd.,Financial Services,CREDITACC,EQ,INE741K01010
-Equitas Small Finance Bank Ltd.,Financial Services,EQUITASBNK,EQ,INE063P01018
 Affle (India) Ltd.,Information Technology,AFFLE,EQ,INE00WC01027
 Birlasoft Ltd.,Information Technology,BSOFT,EQ,INE836A01035
 C.E. Info Systems Ltd.,Information Technology,MAPMYINDIA,EQ,INE0BV301023
@@ -38,6 +38,7 @@ HCL Technologies Ltd.,Information Technology,HCLTECH,EQ,INE860A01027
 Happiest Minds Technologies Ltd.,Information Technology,HAPPSTMNDS,EQ,INE419U01012
 Infosys Ltd.,Information Technology,INFY,EQ,INE009A01021
 Intellect Design Arena Ltd.,Information Technology,INTELLECT,EQ,INE306R01017
+Inventurus Knowledge Solutions Ltd.,Information Technology,IKS,EQ,INE115Q01022
 KPIT Technologies Ltd.,Information Technology,KPITTECH,EQ,INE04I401011
 L&T Technology Services Ltd.,Information Technology,LTTS,EQ,INE010V01017
 LTIMindtree Ltd.,Information Technology,LTIM,EQ,INE214T01019
@@ -48,16 +49,16 @@ Netweb Technologies India Ltd.,Information Technology,NETWEB,EQ,INE0NT901020
 Newgen Software Technologies Ltd.,Information Technology,NEWGEN,EQ,INE619B01017
 Oracle Financial Services Software Ltd.,Information Technology,OFSS,EQ,INE881D01027
 Persistent Systems Ltd.,Information Technology,PERSISTENT,EQ,INE262H01021
+Sagility India Ltd.,Information Technology,SAGILITY,EQ,INE0W2G01015
 Sonata Software Ltd.,Information Technology,SONATSOFTW,EQ,INE269A01021
 Tanla Platforms Ltd.,Information Technology,TANLA,EQ,INE483C01032
 Tata Consultancy Services Ltd.,Information Technology,TCS,EQ,INE467B01029
 Tata Elxsi Ltd.,Information Technology,TATAELXSI,EQ,INE670A01012
-Tata Technologies Ltd.,Information Technology,TATATECH,EQ,INE142M01025
-Tech Mahindra Ltd.,Information Technology,TECHM,EQ,INE669C01036
 Abbott India Ltd.,Healthcare,ABBOTINDIA,EQ,INE358A01014
 Ajanta Pharmaceuticals Ltd.,Healthcare,AJANTPHARM,EQ,INE031B01049
 Akums Drugs and Pharmaceuticals Ltd.,Healthcare,AKUMS,EQ,INE09XN01023
 Alembic Pharmaceuticals Ltd.,Healthcare,APLLTD,EQ,INE901L01018
+Alivus Life Sciences Ltd.,Healthcare,ALIVUS,EQ,INE03Q201024
 Alkem Laboratories Ltd.,Healthcare,ALKEM,EQ,INE540L01014
 Apollo Hospitals Enterprise Ltd.,Healthcare,APOLLOHOSP,EQ,INE437A01024
 Aster DM Healthcare Ltd.,Healthcare,ASTERDM,EQ,INE914M01019
@@ -78,7 +79,6 @@ Glaxosmithkline Pharmaceuticals Ltd.,Healthcare,GLAXO,EQ,INE159A01016
 Glenmark Pharmaceuticals Ltd.,Healthcare,GLENMARK,EQ,INE935A01035
 Global Health Ltd.,Healthcare,MEDANTA,EQ,INE474Q01031
 Granules India Ltd.,Healthcare,GRANULES,EQ,INE101D01020
-Indegene Ltd.,Healthcare,INDGN,EQ,INE065X01017
 Amara Raja Energy & Mobility Ltd.,Automobile and Auto Components,ARE&M,EQ,INE885A01032
 Apollo Tyres Ltd.,Automobile and Auto Components,APOLLOTYRE,EQ,INE438A01022
 Asahi India Glass Ltd.,Automobile and Auto Components,ASAHIINDIA,EQ,INE439A01020
@@ -86,19 +86,19 @@ Bajaj Auto Ltd.,Automobile and Auto Components,BAJAJ-AUTO,EQ,INE917I01010
 Balkrishna Industries Ltd.,Automobile and Auto Components,BALKRISIND,EQ,INE787D01026
 Bharat Forge Ltd.,Automobile and Auto Components,BHARATFORG,EQ,INE465A01025
 Bosch Ltd.,Automobile and Auto Components,BOSCHLTD,EQ,INE323A01026
-CIE Automotive India Ltd.,Automobile and Auto Components,CIEINDIA,EQ,INE536H01010
 Ceat Ltd.,Automobile and Auto Components,CEATLTD,EQ,INE482A01020
 Craftsman Automation Ltd.,Automobile and Auto Components,CRAFTSMAN,EQ,INE00LO01017
 Eicher Motors Ltd.,Automobile and Auto Components,EICHERMOT,EQ,INE066A01021
 Endurance Technologies Ltd.,Automobile and Auto Components,ENDURANCE,EQ,INE913H01037
 Exide Industries Ltd.,Automobile and Auto Components,EXIDEIND,EQ,INE302A01020
-HBL Engineering Ltd.,Automobile and Auto Components,HBLENGINE,EQ,INE292B01021
 Hero MotoCorp Ltd.,Automobile and Auto Components,HEROMOTOCO,EQ,INE158A01026
+Hyundai Motor India Ltd.,Automobile and Auto Components,HYUNDAI,EQ,INE0V6F01027
 JBM Auto Ltd.,Automobile and Auto Components,JBMA,EQ,INE927D01051
 JK Tyre & Industries Ltd.,Automobile and Auto Components,JKTYRE,EQ,INE573A01042
 MRF Ltd.,Automobile and Auto Components,MRF,EQ,INE883A01011
 Mahindra & Mahindra Ltd.,Automobile and Auto Components,M&M,EQ,INE101A01026
 Maruti Suzuki India Ltd.,Automobile and Auto Components,MARUTI,EQ,INE585B01010
+Minda Corporation Ltd.,Automobile and Auto Components,MINDACORP,EQ,INE842C01021
 Adani Total Gas Ltd.,Oil Gas & Consumable Fuels,ATGL,EQ,INE399L01023
 Aegis Logistics Ltd.,Oil Gas & Consumable Fuels,AEGISLOG,EQ,INE208C01025
 Bharat Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,BPCL,EQ,INE029A01011
@@ -118,6 +118,7 @@ Oil India Ltd.,Oil Gas & Consumable Fuels,OIL,EQ,INE274J01014
 Petronet LNG Ltd.,Oil Gas & Consumable Fuels,PETRONET,EQ,INE347G01014
 Reliance Industries Ltd.,Oil Gas & Consumable Fuels,RELIANCE,EQ,INE002A01018
 Adani Enterprises Ltd.,Metals & Mining,ADANIENT,EQ,INE423A01024
+Gravita India Ltd.,Metals & Mining,GRAVITA,EQ,INE024L01027
 Gujarat Mineral Development Corporation Ltd.,Metals & Mining,GMDCLTD,EQ,INE131A01031
 Hindalco Industries Ltd.,Metals & Mining,HINDALCO,EQ,INE038A01020
 Hindustan Copper Ltd.,Metals & Mining,HINDCOPPER,EQ,INE531E01026
@@ -129,41 +130,40 @@ Lloyds Metals And Energy Ltd.,Metals & Mining,LLOYDSME,EQ,INE281B01032
 NMDC Ltd.,Metals & Mining,NMDC,EQ,INE584A01023
 NMDC Steel Ltd.,Metals & Mining,NSLNISP,EQ,INE0NNS01018
 National Aluminium Co. Ltd.,Metals & Mining,NATIONALUM,EQ,INE139A01034
+Sarda Energy and Minerals Ltd.,Metals & Mining,SARDAEN,EQ,INE385C01021
 Steel Authority of India Ltd.,Metals & Mining,SAIL,EQ,INE114A01011
 Tata Steel Ltd.,Metals & Mining,TATASTEEL,EQ,INE081A01020
 Vedanta Ltd.,Metals & Mining,VEDL,EQ,INE205A01025
 ACC Ltd.,Construction Materials,ACC,EQ,INE012A01025
 Ambuja Cements Ltd.,Construction Materials,AMBUJACEM,EQ,INE079A01024
-Birla Corporation Ltd.,Construction Materials,BIRLACORPN,EQ,INE340A01012
 Dalmia Bharat Ltd.,Construction Materials,DALBHARAT,EQ,INE00R701025
 Grasim Industries Ltd.,Construction Materials,GRASIM,EQ,INE047A01021
 India Cements Ltd.,Construction Materials,INDIACEM,EQ,INE383A01012
 J.K. Cement Ltd.,Construction Materials,JKCEMENT,EQ,INE823G01014
-JK Lakshmi Cement Ltd.,Construction Materials,JKLAKSHMI,EQ,INE786A01032
-Nuvoco Vistas Corporation Ltd.,Construction Materials,NUVOCO,EQ,INE118D01016
 Shree Cement Ltd.,Construction Materials,SHREECEM,EQ,INE070A01015
 The Ramco Cements Ltd.,Construction Materials,RAMCOCEM,EQ,INE331A01037
 UltraTech Cement Ltd.,Construction Materials,ULTRACEMCO,EQ,INE481G01011
+ACME Solar Holdings Ltd.,Power,ACMESOLAR,EQ,INE622W01025
 Adani Energy Solutions Ltd.,Power,ADANIENSOL,EQ,INE931S01010
 Adani Green Energy Ltd.,Power,ADANIGREEN,EQ,INE364U01010
 Adani Power Ltd.,Power,ADANIPOWER,EQ,INE814H01011
 CESC Ltd.,Power,CESC,EQ,INE486A01021
+Dummy Siemens Ltd.,Power,DUMMYSIEMS,EQ,DUM003A01024
 JSW Energy Ltd.,Power,JSWENERGY,EQ,INE121E01018
 Jaiprakash Power Ventures Ltd.,Power,JPPOWER,EQ,INE351F01018
 NHPC Ltd.,Power,NHPC,EQ,INE848E01016
 NLC India Ltd.,Power,NLCINDIA,EQ,INE589A01014
+NTPC Green Energy Ltd.,Power,NTPCGREEN,EQ,INE0ONG01011
 NTPC Ltd.,Power,NTPC,EQ,INE733E01010
+Nava Ltd.,Power,NAVA,EQ,INE725A01030
 Power Grid Corporation of India Ltd.,Power,POWERGRID,EQ,INE752E01010
-SJVN Ltd.,Power,SJVN,EQ,INE002L01015
-Tata Power Co. Ltd.,Power,TATAPOWER,EQ,INE245A01021
-Torrent Power Ltd.,Power,TORNTPOWER,EQ,INE813H01021
+Reliance Power Ltd.,Power,RPOWER,EQ,INE614G01033
 Amber Enterprises India Ltd.,Consumer Durables,AMBER,EQ,INE371P01015
 Asian Paints Ltd.,Consumer Durables,ASIANPAINT,EQ,INE021A01026
 Bata India Ltd.,Consumer Durables,BATAINDIA,EQ,INE176A01028
 Berger Paints India Ltd.,Consumer Durables,BERGEPAINT,EQ,INE463A01038
 Blue Star Ltd.,Consumer Durables,BLUESTARCO,EQ,INE472A01039
 Campus Activewear Ltd.,Consumer Durables,CAMPUS,EQ,INE278Y01022
-Cello World Ltd.,Consumer Durables,CELLO,EQ,INE0LMW01024
 Century Plyboards (India) Ltd.,Consumer Durables,CENTURYPLY,EQ,INE348B01021
 Cera Sanitaryware Ltd,Consumer Durables,CERA,EQ,INE739E01017
 Crompton Greaves Consumer Electricals Ltd.,Consumer Durables,CROMPTON,EQ,INE299U01018
@@ -172,9 +172,11 @@ Havells India Ltd.,Consumer Durables,HAVELLS,EQ,INE176B01034
 Kajaria Ceramics Ltd.,Consumer Durables,KAJARIACER,EQ,INE217B01036
 Kalyan Jewellers India Ltd.,Consumer Durables,KALYANKJIL,EQ,INE303R01014
 Kansai Nerolac Paints Ltd.,Consumer Durables,KANSAINER,EQ,INE531A01024
+PG Electroplast Ltd.,Consumer Durables,PGEL,EQ,INE457L01029
 Alok Industries Ltd.,Textiles,ALOKINDS,EQ,INE270A01029
 K.P.R. Mill Ltd.,Textiles,KPRMILL,EQ,INE930H01031
 Page Industries Ltd.,Textiles,PAGEIND,EQ,INE761H01022
+Raymond Lifestyle Ltd.,Textiles,RAYMONDLSL,EQ,INE02ID01020
 Trident Ltd.,Textiles,TRIDENT,EQ,INE064C01022
 Vardhman Textiles Ltd.,Textiles,VTL,EQ,INE825A01020
 Welspun Living Ltd.,Textiles,WELSPUNLIV,EQ,INE192B01031
