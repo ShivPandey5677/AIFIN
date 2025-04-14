@@ -2,5 +2,5 @@ sentiment/nse_annual_reports/
 fundamental/fundamental_data/
 test_fol
 data/long_term_features/
-data/stock_data/
-data/short_term_data/
+technical_algo/long_term_dataset.csv
+.ipynb_checkpoints/
